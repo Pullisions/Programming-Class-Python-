@@ -1,1 +1,2 @@
 maSH On RighT Please In Go 52
+print ("owmwomdimejfnr")
